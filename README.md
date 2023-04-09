@@ -30,7 +30,7 @@
           <p> 
           In order to meet expectations, I first imported a CSS I found on the internet. The CSS is called Simple.css - A CSS framework. This framework has a sans-serif font, and is very minimalistic. What was great about this CSS is that it is very minimalistic, and does not distract the viewer from the visualizations. Further, I was able to take advantage of the *figure* element, which ensures that the visualizations I import do not overflow off the webpage. The challenges I faced were ultimately ensuring that the spacing looked good, and that I used the right sizings for the different titles. I found this to be easily corrected through trial and error.
           
-           </p>
+  </p>
       
   </body>
 </html>
